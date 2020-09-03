@@ -1,5 +1,5 @@
 # PHPUnit tests for BrowserStack
-## Using Paratest for parallel execution
+Using Paratest for parallel execution
 
 ## Setup
 * Clone the repo
