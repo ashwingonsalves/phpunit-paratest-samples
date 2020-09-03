@@ -1,5 +1,6 @@
 # PHPUnit tests for BrowserStack
 Using Paratest for parallel execution
+[![BrowserStack Status](https://automate.browserstack.com/badge.svg?badge_key=R0F2QVZ6NnFLeDBnQ3Y1aXZoR213Mk9QVUFtU2c4b1NuV3dHQ3lmaXhlYz0tLUJXU3JNUkpXTTdONnMzdElQeXFPRnc9PQ==--ea1416050ead66a4fa8b2a0e42eb8216f0e6b614%)](https://automate.browserstack.com/public-build/R0F2QVZ6NnFLeDBnQ3Y1aXZoR213Mk9QVUFtU2c4b1NuV3dHQ3lmaXhlYz0tLUJXU3JNUkpXTTdONnMzdElQeXFPRnc9PQ==--ea1416050ead66a4fa8b2a0e42eb8216f0e6b614%)
 
 ## Setup
 * Clone the repo
