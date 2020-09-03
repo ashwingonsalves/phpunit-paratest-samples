@@ -10,11 +10,11 @@ Using Paratest for parallel execution
 
 * Sequential run
 ```bash
-composer ./vendor/bin/phpunit tests/
+./vendor/bin/phpunit tests/
 ```
 * Parallel runs using Paratest
 ```bash
-composer ./vendor/bin/paratest tests/
+./vendor/bin/paratest tests/
 ```
 
 ## Notes
